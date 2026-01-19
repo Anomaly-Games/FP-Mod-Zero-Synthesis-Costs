@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesisSetup>
+  <SYN_StartSynthesis>0</SYN_StartSynthesis>
+ 
+  <SYN_CostIncreasePerChoice>0</SYN_CostIncreasePerChoice>
+  
+  <SYN_StartCostAlpha_Global>0</SYN_StartCostAlpha_Global>
+  <SYN_StartCostBeta_Global>0</SYN_StartCostBeta_Global>
+  <SYN_StartCostOmega_Global>0</SYN_StartCostOmega_Global>
+
+  <SYN_StartCostAlpha_Cheap>0</SYN_StartCostAlpha_Cheap>
+  <SYN_StartCostBeta_Cheap>0</SYN_StartCostBeta_Cheap>
+  <SYN_StartCostOmega_Cheap>0</SYN_StartCostOmega_Cheap>
+
+  <SYN_StartCostAlpha_Expensive>0</SYN_StartCostAlpha_Expensive>
+  <SYN_StartCostBeta_Expensive>0</SYN_StartCostBeta_Expensive>
+  <SYN_StartCostOmega_Expensive>0</SYN_StartCostOmega_Expensive>
+
+  <SYN_MaxSynthesisCost_NormalEvent>0</SYN_MaxSynthesisCost_NormalEvent>
+  <SYN_MinSynthesisCost_NormalEvent>0</SYN_MinSynthesisCost_NormalEvent>
+  <SYN_MaxSynthesisCost_CriticalEvent>0</SYN_MaxSynthesisCost_CriticalEvent>
+  <SYN_MinSynthesisCost_CriticalEvent>0</SYN_MinSynthesisCost_CriticalEvent>
+
+  <SYN_MaxFlareSynthesis_Neutral>0</SYN_MaxFlareSynthesis_Neutral>
+  <SYN_MinFlareSynthesis_Neutral>0</SYN_MinFlareSynthesis_Neutral>
+  <SYN_MaxFlareSynthesis_Chaos>0</SYN_MaxFlareSynthesis_Chaos>
+  <SYN_MinFlareSynthesis_Chaos>0</SYN_MinFlareSynthesis_Chaos>
+  <SYN_MaxFlareSynthesis_Special>0</SYN_MaxFlareSynthesis_Special>
+  <SYN_MinFlareSynthesis_Special>0</SYN_MinFlareSynthesis_Special>
+
+</SynthesisSetup>
