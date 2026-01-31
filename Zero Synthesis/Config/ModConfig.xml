@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModSetup>
-  <MOD_Version>0.73.A.1</MOD_Version>
+  <MOD_Version>0.73.F.1</MOD_Version>
   <MOD_Title>Zero Synthesis Costs</MOD_Title>
   <MOD_Description>Want to just enjoy the narrative of the Fermi Paradox without dealing with Synthesis gameplay? Everything costs zero Synthesis, this will become the Storyteller Mode in the future.</MOD_Description>
+  <MOD_Author>Anomaly Games</MOD_Author>
 </ModSetup> 
